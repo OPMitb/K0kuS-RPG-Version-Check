@@ -1,6 +1,0 @@
-*chỉ sử dụng ở màn hình chính*
-reset - khôi phục các chỉ số về ban đầu
-save  - lưu
-exit  - thoát
-*sử dụng để back về gameplay*
-back  - quay lại
