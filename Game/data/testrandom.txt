@@ -1,0 +1,2 @@
+set /a num=%random% %%100 +1
+- will produce number between 1~100.
