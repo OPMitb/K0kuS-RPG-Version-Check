@@ -37,6 +37,11 @@ echo                                                       THÔNG BÁO
 echo ========================================================================================================================
 echo.&echo.
 echo ------------------------------------------------------------------------------------------------------------------------
+echo  [2/1/2023]
+echo                                K0kuS's RPG v0.4 Story Update Early Access Vừa Ra Mắt!!
+echo                         K0kuS's RPG v0.4 Story Update Early Access release at 18:30 2/1/2023
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
 echo  [1/1/2023]
 echo                                      K0kuS's RPG v0.4 sắp được hoàn thành.!
 echo  Tên chính thức của bản cập nhật này là: K0kuS's RPG v0.4 Story Update Early Access, một bản cập nhật đầy hứa hẹn
