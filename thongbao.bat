@@ -37,6 +37,11 @@ echo                                                       THÔNG BÁO
 echo ========================================================================================================================
 echo.&echo.
 echo ------------------------------------------------------------------------------------------------------------------------
+echo  [20:00 4/1/2023]
+echo                         K0kuS's RPG v0.5 Story Update Part 2 Early Access Update Vừa Ra Mắt!
+echo                                Hãy truy cập trang Site chính chủ để tải về ngay!!!
+echo.  
+echo ------------------------------------------------------------------------------------------------------------------------
 echo  [20:30 2/1/2023]
 echo                        K0kuS's RPG v0.5 Story Update Part 2 Early Access Đang Bắt Đầu Phát Triển!!
 echo                Bản cập nhật bổ sung cốt truyện cho K0kuS's RPG v0.4 và Cân Bằng Các chỉ số trong Game
