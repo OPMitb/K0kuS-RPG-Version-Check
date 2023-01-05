@@ -37,6 +37,11 @@ echo                                                       THÔNG BÁO
 echo ========================================================================================================================
 echo.&echo.
 echo ------------------------------------------------------------------------------------------------------------------------
+echo  [22:00 5/1/2023]
+echo                                K0kuS's RPG v0.6 ????? Early Access Update Đang Phát Triển!
+echo                                           Một dự án lớn đang phát triển!!!
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
 echo  [20:00 4/1/2023]
 echo                         K0kuS's RPG v0.5 Story Update Part 2 Early Access Update Vừa Ra Mắt!
 echo                                Hãy truy cập trang Site chính chủ để tải về ngay!!!
@@ -51,6 +56,7 @@ echo  [2/1/2023]
 echo                                K0kuS's RPG v0.4 Story Update Early Access Vừa Ra Mắt!!
 echo                         K0kuS's RPG v0.4 Story Update Early Access release at 18:30 2/1/2023
 echo.
+pause>nul
 echo ------------------------------------------------------------------------------------------------------------------------
 echo  [1/1/2023]
 echo                                      K0kuS's RPG v0.4 sắp được hoàn thành.!
